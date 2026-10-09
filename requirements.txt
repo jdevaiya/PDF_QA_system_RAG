@@ -1,0 +1,27 @@
+# Web Application Framework
+streamlit
+
+# LangChain Framework & Extensions
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-google-genai
+langchain-groq
+langchain-huggingface
+
+# LLM Providers & SDKs
+google-generativeai
+groq
+
+# Local Fallback Embeddings (Offline & Free)
+sentence-transformers
+
+# Vector Database
+faiss-cpu
+
+# PDF Processing
+pypdf
+
+# Environment Management
+python-dotenv
